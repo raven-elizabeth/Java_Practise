@@ -1,2 +1,2 @@
-# Java_Practise
+# Java Practise
 A collection of simple Java projects for practise.
