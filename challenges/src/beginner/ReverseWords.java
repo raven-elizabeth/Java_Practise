@@ -2,7 +2,7 @@ package beginner;
 
 import java.util.Scanner;
 
-public class reverseWords {
+public class ReverseWords {
 
     public static void main(String[] args){
         System.out.println("Enter your text:");

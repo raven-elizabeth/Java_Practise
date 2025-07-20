@@ -2,7 +2,7 @@ package beginner;
 
 import java.util.Scanner;
 
-public class calcInfiniteSum {
+public class CalcInfiniteSum {
 
     public static void main(String[] args){
         System.out.println("How many numbers do you want to add?");
